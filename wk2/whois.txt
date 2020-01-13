@@ -1,0 +1,83 @@
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2028-03-30
+Updated On:2019-10-17
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.facebook.com
+b.ns.facebook.com
+=======================================
+Domain:instagram.com
+Registrar:RegistrarSafe, LLC
+Registered On:2004-06-04
+Expires On:2027-06-04
+Updated On:2018-03-01
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns-1349.awsdns-40.org
+ns-2016.awsdns-60.co.uk
+ns-384.awsdns-48.com
+ns-868.awsdns-44.net
+=======================================
+Domain:linkedin.com
+Registrar:MarkMonitor Inc.
+Registered On:2002-11-02
+Expires On:2020-11-02
+Updated On:2017-02-02
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:dns1.p09.nsone.net
+dns2.p09.nsone.net
+dns3.p09.nsone.net
+dns4.p09.nsone.net
+ns1.p43.dynect.net
+ns2.p43.dynect.net
+ns3.p43.dynect.net
+ns4.p43.dynect.net
+=========================================
+Domain:google.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-09-15
+Expires On:2028-09-13
+Updated On:2019-09-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+========================================
+Domain:amazon.com
+Registrar:MarkMonitor Inc.
+Registered On:1994-11-01
+Expires On:2024-10-30
+Updated On:2019-05-07
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.p31.dynect.net
+ns2.p31.dynect.net
+ns3.p31.dynect.net
+ns4.p31.dynect.net
+pdns1.ultradns.net
+pdns6.ultradns.co.uk

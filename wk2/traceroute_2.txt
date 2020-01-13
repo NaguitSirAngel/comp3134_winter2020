@@ -1,0 +1,11 @@
+C:\Users\angel>tracert 159.203.34.210
+
+Tracing route to 159.203.34.210 over a maximum of 30 hops
+
+  1    12 ms    19 ms    18 ms  10.4.64.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7    14 ms    12 ms    13 ms  159.203.34.210

@@ -1,0 +1,19 @@
+GeorgeBrown
+IP Address: 198.96.86.202
+Geolocation: CA (Canada), ON, Ontario, M5T Toronto - Google Maps
+=======================================
+Best Buy Co., Inc.
+IP Address: 167.209.0.0
+Geolocation: US (United States), MN, Minnesota, 55423 Minneapolis - Google Maps
+========================================
+Newegg Inc.
+IP Address: 204.89.152.0
+Geolocation: US (United States), CA, California, 91766 Pomona - Google Maps	
+=======================================
+IKEA IT AB
+IP Address: 192.176.232.0
+Geolocation: SE (Sweden), N/A, N/A, N/A N/A - Google Maps
+=====================================
+Apple Inc
+IP Address: 144.178.0.0
+Geolocation: US (United States), CA, California, 95119 San Jose - Google Maps

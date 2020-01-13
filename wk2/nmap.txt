@@ -1,0 +1,60 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:21 UTC
+Nmap scan report for google.com (172.217.164.206)
+Host is up (0.0011s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.164.206: yyz12s04-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 17.45 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 8080 google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:26 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0016s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 0.51 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 8080-8090 google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:26 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8082/tcp filtered blackice-alerts
+8083/tcp filtered us-srv
+8084/tcp filtered unknown
+8085/tcp filtered unknown
+8086/tcp filtered d-s-n
+8087/tcp filtered simplifymedia
+8088/tcp filtered radan-http
+8089/tcp filtered unknown
+8090/tcp filtered opsmessaging
+
+Nmap done: 1 IP address (1 host up) scanned in 1.69 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:27 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0011s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 5.70 seconds
