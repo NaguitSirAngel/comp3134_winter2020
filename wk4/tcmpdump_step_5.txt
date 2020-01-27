@@ -1,0 +1,26 @@
+tcpdump -XX -i eth0
+    0x0b40:  746f 5cde 85c8 f530 cc08 2ff5 543e 6241  to\....0../.T>bA
+        0x0b50:  4360 75f8 e655 b1ae 9db0 4319 b898 cb90  C`u..U....C.....
+        0x0b60:  472c 41f1 b385 01b0 a6c3 4d6d 6e44 3f9d  G,A.......MmnD?.
+        0x0b70:  804e adf4 4ffa 130e 86bc c7ae b968 7614  .N..O........hv.
+        0x0b80:  2d58 bc93 1563 1454 afc6 a0bc 223d 7c03  -X...c.T...."=|.
+        0x0b90:  72c2 1705 0423 c3d3 50ce 4f86 b451 b9f9  r....#..P.O..Q..
+        0x0ba0:  2cc4 ab21 d622 68b0 ab10 173a ef77 2fcd  ,..!."h....:.w/.
+        0x0bb0:  d668 40c1 f49e 7a4b c585 246b f8d4 e58e  .h@...zK..$k....
+        0x0bc0:  218e 5ab4 d408 ed0a 8255 5714 c4fa c724  !.Z......UW....$
+        0x0bd0:  d843 d647 ffe9 f448 720a 7794 23e5 67f5  .C.G...Hr.w.#.g.
+        0x0be0:  cecd 4788 12ee ed3a f64d b537 d311 877d  ..G....:.M.7...}
+        0x0bf0:  c19c 1f27 1b04 70ec 82ab ea2d fd2c 579b  ...'..p....-.,W.
+        0x0c00:  88cf d8e7 8b5d 1e36 c38b 1bad be21 82c2  .....].6.....!..
+        0x0c10:  3ac9 81a9 0f3c a84f 2562 2307 d216 1d08  :....<.O%b#.....
+        0x0c20:  291d 3f38 22ec 0435 863a 432a 546a dbbf  ).?8"..5.:C*Tj..
+        0x0c30:  03c9 fc9c 1982 a669 ad59 b461 05e8 46af  .......i.Y.a..F.
+        0x0c40:  66fb 44a6 ea36 c8f0 e556 7522 1474 05d2  f.D..6...Vu".t..
+        0x0c50:  8ef1 077b 6c7d e4c6 c2c5 76f9 d990 21ca  ...{l}....v...!.
+        0x0c60:  0d33 0c94 e28b 6c8b a4c4 6e68 bfac 2184  .3....l...nh..!.
+        0x0c70:  5062 9c5b 5e18 11a7 e9ac 1770 6fe6 cf69  Pb.[^......po..i
+        0x0c80:  f9c8                                     ..
+
+589 packets captured
+5792 packets received by filter
+5197 packets dropped by kernel

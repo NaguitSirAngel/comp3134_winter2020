@@ -1,0 +1,19 @@
+tcpdump -r 0001.pcap
+20:39:26.432536 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 222.186.30.145.29370: Flags [F.], seq 0, ack 1, win 504, options [nop,nop,TS val 67393501 ecr 6757524], length 0
+20:39:29.721004 IP 201.163.98.154.50175 > lamp-s-1vcpu-1gb-tor1-01.microsoft-ds: Flags [S], seq 3079767812, win 8192, options [mss 1460,nop,wscale 2,nop,nop,sackOK], length 0
+20:39:41.923599 IP dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288 > lamp-s-1vcpu-1gb-tor1-01.http: Flags [S], seq 2680890066, win 16303, length 0
+20:39:41.923682 IP lamp-s-1vcpu-1gb-tor1-01.http > dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288: Flags [S.], seq 1644426050, ack 2680890067, win 64240, options [mss 1460], length 0
+20:39:42.944491 IP lamp-s-1vcpu-1gb-tor1-01.http > dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288: Flags [S.], seq 1644426050, ack 2680890067, win 64240, options [mss 1460], length 0
+20:39:44.960499 IP lamp-s-1vcpu-1gb-tor1-01.http > dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288: Flags [S.], seq 1644426050, ack 2680890067, win 64240, options [mss 1460], length 0
+20:39:47.168473 ARP, Request who-has _gateway tell lamp-s-1vcpu-1gb-tor1-01, length 28
+20:39:47.169601 ARP, Reply _gateway is-at fe:00:00:00:01:01 (oui Unknown), length 46
+20:39:49.216564 IP lamp-s-1vcpu-1gb-tor1-01.http > dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288: Flags [S.], seq 1644426050, ack 2680890067, win 64240, options [mss 1460], length 0
+20:39:52.798082 IP 194.26.29.114.53149 > lamp-s-1vcpu-1gb-tor1-01.33052: Flags [S], seq 1766509776, win 1024, length 0
+20:39:53.468359 IP 185.176.27.14.48283 > lamp-s-1vcpu-1gb-tor1-01.36222: Flags [S], seq 2817397908, win 1024, length 0
+20:39:56.088843 IP 207.164.191.230.41313 > lamp-s-1vcpu-1gb-tor1-01.10001: UDP, length 4
+20:39:57.152503 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 218.92.0.211.14425: Flags [P.], seq 160:240, ack 193, win 504, options [nop,nop,TS val 2384468983 ecr 274028108], length 80
+20:39:57.381156 IP 218.92.0.211.14425 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [R], seq 3166198401, win 0, length 0
+20:39:57.381226 IP lamp-s-1vcpu-1gb-tor1-01 > 218.92.0.211: ICMP lamp-s-1vcpu-1gb-tor1-01 tcp port ssh unreachable, length 48
+20:39:57.408495 IP lamp-s-1vcpu-1gb-tor1-01.http > dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288: Flags [S.], seq 1644426050, ack 2680890067, win 64240, options [mss 1460], length 0
+20:40:02.251758 IP dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288 > lamp-s-1vcpu-1gb-tor1-01.http: Flags [S], seq 2680890066, win 16303, length 0
+20:40:02.251812 IP lamp-s-1vcpu-1gb-tor1-01.http > dsl-201-146-201-22-dyn.prod-infinitum.com.mx.16288: Flags [S.], seq 1644426050, ack 2680890067, win 64240, options [mss 1460], length 0
