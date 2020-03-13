@@ -1,0 +1,4 @@
+#1 array of directories(inside the www)
+#2 the directories inside www and it also
+indicates the possibilites of other directories
+outside the current directory.

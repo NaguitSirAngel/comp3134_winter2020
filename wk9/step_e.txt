@@ -1,0 +1,2 @@
+# if condition that only accepting the current directory parameter (.)
+# then if a folder or dir does not exist it would not execute the scandir func.

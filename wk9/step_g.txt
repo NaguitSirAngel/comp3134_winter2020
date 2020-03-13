@@ -1,0 +1,5 @@
+# making the the initial comments server side made it impossible for the browser
+console to see the comments.
+<?php
+// comment here...
+?>

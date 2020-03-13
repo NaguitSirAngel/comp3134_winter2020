@@ -1,0 +1,2 @@
+#1 an array of directories
+#2 directories outside the web root (or upper level directories from the web root).
