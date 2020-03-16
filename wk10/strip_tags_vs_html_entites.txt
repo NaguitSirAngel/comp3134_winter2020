@@ -1,0 +1,2 @@
+# The first solution uses the Get Method to pas the value thus enabling to use the url to pass the value.
+# The second solution uses javascript. by simply taking the value of the html entities it does not need to use a get method just to get the value.

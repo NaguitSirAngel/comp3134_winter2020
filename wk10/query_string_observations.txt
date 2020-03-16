@@ -1,0 +1,6 @@
+#1 The URL changed. idicates that the form is a GET method.
+#2 Website says no results were found. also the url tells /misspelling?term=qwe.
+#3 The URL tells https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E&s=ts
+	idicating that there are no results with the script.
+#4 The URL says the same output as #3.
+
