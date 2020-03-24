@@ -1,0 +1,2 @@
+#1 the script that is not closed
+#2 instead of output-ing the txt contents it runs the script and goes to the directory_traversal_part1.php right away.

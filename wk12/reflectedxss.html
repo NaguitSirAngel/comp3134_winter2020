@@ -1,0 +1,13 @@
+<h1 id ="h">My Header</h1>
+<form>
+    <label>Input something</label>
+    <input type="text" id="input">
+    <input type="submit" onclick="show()">
+</form>
+<div id="output"></div>
+<script>
+    function show(){
+        event.preventDefault();
+        document.getElementById("output").innerHTML = document.getElementById("input").value; 
+    }
+</script>

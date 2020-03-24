@@ -1,0 +1,2 @@
+#1 Now the form has an extra condition to login making it more harder for a hacker to execute a xss attack.
+#2 I started the session on the csfr_action itself and it was a success login, establishing that the session variable must be started for this to work.
