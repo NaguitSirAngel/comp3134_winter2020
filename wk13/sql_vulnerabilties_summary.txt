@@ -1,0 +1,5 @@
+#1 The row that has the 'Ben' in it shows up. It shows the information of the user.THIS IS EXPECTED.
+#2 Ben row showed up, indicating that the 'Ben'-- ' somewhat triggered the query. THIS IS NOT EXPECTED.
+#3 No rows also showed up,'Ben' or 1=1' did not match any column value, the sql injection did not work also. THIS IS EXPECTED.
+
+MITIGATED:Fixed #2 with prepared statements.
